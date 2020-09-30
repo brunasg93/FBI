@@ -10,3 +10,9 @@ Minha vivência com tecnolgia começou na minha infância por meio do meu pai, u
 <br>
 <b> Fernando R. Frazão - 4182168-8   </b> <br>
 Apaixonado por programação desde os meus 15 anos. Estou cursando o terceiro semestre de ADS, atualmente trabalho com as principais programações Java, Hadoop, Python, Spark e PySpark.
+
+<br>
+<br> 
+<b> Isabella Lee Abdala - 31850431 </b> <br>
+Sempre tive muito interesse em desenvolvimento de sites, linguagem html, css, js. 
+Atualmente curso as matérias do 3 semestre e no trabalho atuo na área Planejamento estratégico do Banco, tendo experiência mais próxima ao BI.
